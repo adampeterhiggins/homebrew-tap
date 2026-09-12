@@ -7,7 +7,7 @@ cask "usage-monitor" do
   desc "Menu-bar app tracking Claude, Codex and Cursor usage allowances"
   homepage "https://github.com/adampeterhiggins/usage-monitor-native"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   app "Usage Monitor.app"
 
