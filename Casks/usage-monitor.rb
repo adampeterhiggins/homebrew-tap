@@ -1,6 +1,6 @@
 cask "usage-monitor" do
-  version "0.2.15"
-  sha256 "231a5a05b8606ea066500313a24d65ac8a91d3f11129cc9d0047b302c6dc00dc"
+  version "0.2.16"
+  sha256 "cfce0fdddfad762c937170a1b7119eaeabba104ce00b0a38a6d32515bbe2d8ce"
 
   url "https://github.com/adampeterhiggins/usage-monitor/releases/download/v#{version}/usage-monitor_#{version}_universal.dmg"
   name "Usage Monitor"
