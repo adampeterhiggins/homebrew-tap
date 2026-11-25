@@ -1,6 +1,6 @@
 cask "github-monitor" do
   version "0.2.15"
-  sha256 "4c9ca29ba5275d8ad7c7bb77c3c8b03d9001187abd7bdfdb03b79e7d192404aa"
+  sha256 "ad2f0141df5482720b2ba8ddf12aebcf7c09362dff216cd1413dc323dd4d9d43"
 
   url "https://github.com/adampeterhiggins/github-monitor/releases/download/v#{version}/github-monitor_#{version}_universal.dmg"
   name "GitHub Monitor"
